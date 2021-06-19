@@ -6,7 +6,6 @@ function dynamicresult() {
   var first = document.createElement("div");
   first.id = "firstdiv";
   var firstparagraph = document.createElement("h1");
-  firstparagraph.innerHTML = "Result !!!!";
   first.appendChild(firstparagraph);
   var second = document.createElement("div");
 
@@ -19,8 +18,10 @@ function dynamicresult() {
   //right tree condition
   if (oboe === "right") {
     var no = document.getElementById("novalue").value;
+
     var seconddiv = document.getElementById("seconddiv");
     let item;
+    firstparagraph.innerHTML = "Result !!!!";
 
     for (var rows = 1; rows <= no; rows++) {
       var lists = document.createElement("p");
@@ -33,4 +34,7 @@ function dynamicresult() {
       //result = "";
     }
   }
+
+  document.getElementById("novalue").value = " ";
+  document.getElementById("selectid").value = "Default";
 }
