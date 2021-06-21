@@ -10,7 +10,7 @@ function addtodo() {
   todolists.addEventListener("click", removeorcomplete);
 
   if (textid === " ") {
-    alert("plese add something !!!");
+    alert("plese add something for todo!!! ");
   } else {
     const list_div = document.createElement("div");
     list_div.id = "list_div";
