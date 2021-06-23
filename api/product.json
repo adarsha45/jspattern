@@ -1,0 +1,625 @@
+{
+    "data": [
+        {
+            "id": 129,
+            "title": "Dalle Momo with Alus",
+            "categoryId": 5,
+            "categoryTitle": "COMBO PACK",
+            "categorySlug": "combo-pack",
+            "slug": "iobu-dalle-momo-with-alus-jc0101esrtrd02-6wzy",
+            "moreInfo": "<div style=\"display: none;\">&nbsp;</div>\n<div style=\"display: none;\">&nbsp;</div>\n<div style=\"display: none;\">&nbsp;</div>\n<div style=\"display: none;\">&nbsp;</div>\n<div style=\"display: none;\">&nbsp;</div>\n<div style=\"display: none;\">&nbsp;</div>\n<div style=\"display: none;\">&nbsp;</div>\n<div style=\"display: none;\">&nbsp;</div>\n<div style=\"display: none;\">&nbsp;</div>\n<div style=\"display: none;\">&nbsp;</div>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+            "description": "<div style=\"display: none;\">&nbsp;</div>\n<div style=\"display: none;\">&nbsp;</div>\n<div style=\"display: none;\">&nbsp;</div>\n<div style=\"display: none;\">&nbsp;</div>\n<div style=\"display: none;\">&nbsp;</div>\n<p>Our signature dish with momo and alu dum</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+            "taxable": true,
+            "taxableAmount": 0,
+            "decimal": false,
+            "status" : true,
+            "hasOffer": false,
+            "unitPrice": [
+                {
+                    "id": 102,
+                    "title": "Pc",
+                    "sellingPrice": 300,
+                    "markedPrice": 300,
+                    "newPrice": 120,
+                    "oldPrice": 300,
+                    "size": null,
+                    "sku": null,
+                    "description": null,
+                    "barcode": null,
+                    "stock": 999,
+                    "hasOffer": false,
+                    "alwaysAvailable": true
+                }
+            ],
+            "images": [
+                {
+                    "id": 1,
+                    "imageName": "https://uat.ordering-dalle.ekbana.net/storage/placeholder/placeholder-web.png",
+                    "unit_price_id": null
+                }
+            ],
+            "warehouses": [
+                {
+                    "id": 1,
+                    "title": "Kathmandu"
+                }
+            ],
+            "tags": [],
+            "brand": null
+        },
+        {
+            "id": 134,
+            "title": "Chicken C MOMO testingg ©",
+            "categoryId": 2,
+            "categoryTitle": "DALLE MOMOS",
+            "categorySlug": "dalle-momos",
+            "slug": "vk1s-chicken-c-momo-testingg-afsasfd-go6p",
+            "moreInfo": "<div style=\"display: none;\">&nbsp;</div>\r\n<div style=\"display: none;\">&nbsp;</div>\r\n<p>Chicken C MOMO</p>\r\n<p>&nbsp;</p>",
+            "description": "<div style=\"display: none;\">&nbsp;</div>\r\n<div style=\"display: none;\">&nbsp;</div>\r\n<p>Chicken C MOMO</p>\r\n<p>&nbsp;</p>",
+            "taxable": false,
+            "taxableAmount": 0,
+            "decimal": false,
+            "status" : true,
+            "hasOffer": false,
+            "unitPrice": [
+                {
+                    "id": 107,
+                    "title": "Pc",
+                    "sellingPrice": 80,
+                    "markedPrice": 80,
+                    "newPrice": 72,
+                    "oldPrice": 80,
+                    "size": null,
+                    "sku": null,
+                    "description": null,
+                    "barcode": null,
+                    "stock": 999,
+                    "hasOffer": false,
+                    "alwaysAvailable": true
+                }
+            ],
+            "images": [
+                {
+                    "id": 1,
+                    "imageName": "https://uat.ordering-dalle.ekbana.net/storage/placeholder/placeholder-web.png",
+                    "unit_price_id": null
+                }
+            ],
+            "warehouses": [
+                {
+                    "id": 1,
+                    "title": "Kathmandu"
+                }
+            ],
+            "tags": [],
+            "brand": null
+        },
+        {
+            "id": 117,
+            "title": "Fruits",
+            "categoryId": 66,
+            "categoryTitle": "FRESH FRUITS",
+            "categorySlug": "fresh-fruits",
+            "slug": "fruits",
+            "moreInfo": "",
+            "description": "",
+            "taxable": true,
+            "taxableAmount": 0,
+            "decimal": false,
+            "status" : false,
+            "hasOffer": false,
+            "unitPrice": [
+                {
+                    "id": 90,
+                    "title": "Plate",
+                    "sellingPrice": 800,
+                    "markedPrice": 800,
+                    "newPrice": 720,
+                    "oldPrice": 800,
+                    "size": null,
+                    "sku": "ASD",
+                    "description": null,
+                    "barcode": null,
+                    "stock": 999,
+                    "hasOffer": false,
+                    "alwaysAvailable": true
+                }
+            ],
+            "images": [
+                {
+                    "id": 1,
+                    "imageName": "https://uat.ordering-dalle.ekbana.net/storage/placeholder/placeholder-web.png",
+                    "unit_price_id": null
+                }
+            ],
+            "warehouses": [
+                {
+                    "id": 1,
+                    "title": "Kathmandu"
+                }
+            ],
+            "tags": [],
+            "brand": null
+        },
+        {
+            "id": 141,
+            "title": "Dalle Achar2",
+            "categoryId": 91,
+            "categoryTitle": "DalleSpecials",
+            "categorySlug": "au4w-dallespecials-qw86",
+            "slug": "hb4p-dalle-achar2-achar2-hdcq",
+            "moreInfo": "",
+            "description": null,
+            "taxable": true,
+            "taxableAmount": 0,
+            "decimal": false,
+            "status" : true,
+            "hasOffer": false,
+            "unitPrice": [
+                {
+                    "id": 114,
+                    "title": "Pc",
+                    "sellingPrice": 201,
+                    "markedPrice": 201,
+                    "newPrice": 0,
+                    "oldPrice": 201,
+                    "size": null,
+                    "sku": "achar2",
+                    "description": null,
+                    "barcode": null,
+                    "stock": 999,
+                    "hasOffer": false,
+                    "alwaysAvailable": true
+                }
+            ],
+            "images": [
+                {
+                    "id": 1,
+                    "imageName": "https://uat.ordering-dalle.ekbana.net/storage/placeholder/placeholder-web.png",
+                    "unit_price_id": null
+                }
+            ],
+            "warehouses": [
+                {
+                    "id": 1,
+                    "title": "Kathmandu"
+                }
+            ],
+            "tags": [],
+            "brand": null
+        },
+        {
+            "id": 142,
+            "title": "Dalle Achar3",
+            "categoryId": 91,
+            "categoryTitle": "DalleSpecials",
+            "categorySlug": "au4w-dallespecials-qw86",
+            "slug": "uwdc-dalle-achar3-achar3-k4xk",
+            "moreInfo": "",
+            "description": null,
+            "taxable": true,
+            "taxableAmount": 0,
+            "decimal": false,
+            "status" : true,
+            "hasOffer": false,
+            "unitPrice": [
+                {
+                    "id": 115,
+                    "title": "Pc",
+                    "sellingPrice": 202,
+                    "markedPrice": 202,
+                    "newPrice": 0,
+                    "oldPrice": 202,
+                    "size": null,
+                    "sku": "achar3",
+                    "description": null,
+                    "barcode": null,
+                    "stock": 999,
+                    "hasOffer": false,
+                    "alwaysAvailable": true
+                }
+            ],
+            "images": [
+                {
+                    "id": 1,
+                    "imageName": "https://uat.ordering-dalle.ekbana.net/storage/placeholder/placeholder-web.png",
+                    "unit_price_id": null
+                }
+            ],
+            "warehouses": [
+                {
+                    "id": 1,
+                    "title": "Kathmandu"
+                }
+            ],
+            "tags": [],
+            "brand": null
+        },
+        {
+            "id": 139,
+            "title": "Testing Product2",
+            "categoryId": 85,
+            "categoryTitle": "Dallecious",
+            "categorySlug": "nc9f-dallecious-pjcd",
+            "slug": "testing-product2",
+            "moreInfo": "",
+            "description": "",
+            "taxable": true,
+            "taxableAmount": 0,
+            "decimal": false,
+            "status" : true,
+            "hasOffer": false,
+            "unitPrice": [
+                {
+                    "id": 112,
+                    "title": "Plate",
+                    "sellingPrice": 100,
+                    "markedPrice": 100,
+                    "newPrice": 0,
+                    "oldPrice": 100,
+                    "size": null,
+                    "sku": null,
+                    "description": null,
+                    "barcode": null,
+                    "stock": 999,
+                    "hasOffer": false,
+                    "alwaysAvailable": true
+                }
+            ],
+            "images": [
+                {
+                    "id": 1,
+                    "imageName": "https://uat.ordering-dalle.ekbana.net/storage/placeholder/placeholder-web.png",
+                    "unit_price_id": null
+                }
+            ],
+            "warehouses": [
+                {
+                    "id": 1,
+                    "title": "Kathmandu"
+                }
+            ],
+            "tags": [],
+            "brand": null
+        },
+        {
+            "id": 143,
+            "title": "Dalle Achar4",
+            "categoryId": 91,
+            "categoryTitle": "DalleSpecials",
+            "categorySlug": "au4w-dallespecials-qw86",
+            "slug": "hxz5-dalle-achar4-achar4-mb2n",
+            "moreInfo": "",
+            "description": null,
+            "taxable": true,
+            "taxableAmount": 0,
+            "decimal": false,
+            "status" : false,
+            "hasOffer": false,
+            "unitPrice": [
+                {
+                    "id": 116,
+                    "title": "Pc",
+                    "sellingPrice": 203,
+                    "markedPrice": 203,
+                    "newPrice": 0,
+                    "oldPrice": 203,
+                    "size": null,
+                    "sku": "achar4",
+                    "description": null,
+                    "barcode": null,
+                    "stock": 999,
+                    "hasOffer": false,
+                    "alwaysAvailable": true
+                }
+            ],
+            "images": [
+                {
+                    "id": 1,
+                    "imageName": "https://uat.ordering-dalle.ekbana.net/storage/placeholder/placeholder-web.png",
+                    "unit_price_id": null
+                }
+            ],
+            "warehouses": [
+                {
+                    "id": 1,
+                    "title": "Kathmandu"
+                }
+            ],
+            "tags": [],
+            "brand": null
+        },
+        {
+            "id": 145,
+            "title": "Dalle Achar6",
+            "categoryId": 91,
+            "categoryTitle": "DalleSpecials",
+            "categorySlug": "au4w-dallespecials-qw86",
+            "slug": "cfqx-dalle-achar6-achar6-g99v",
+            "moreInfo": "",
+            "description": null,
+            "taxable": true,
+            "taxableAmount": 0,
+            "decimal": false,
+            "status" : true,
+            "hasOffer": false,
+            "unitPrice": [
+                {
+                    "id": 118,
+                    "title": "Pc",
+                    "sellingPrice": 205,
+                    "markedPrice": 205,
+                    "newPrice": 0,
+                    "oldPrice": 205,
+                    "size": null,
+                    "sku": "achar6",
+                    "description": null,
+                    "barcode": null,
+                    "stock": 999,
+                    "hasOffer": false,
+                    "alwaysAvailable": true
+                }
+            ],
+            "images": [
+                {
+                    "id": 1,
+                    "imageName": "https://uat.ordering-dalle.ekbana.net/storage/placeholder/placeholder-web.png",
+                    "unit_price_id": null
+                }
+            ],
+            "warehouses": [
+                {
+                    "id": 1,
+                    "title": "Kathmandu"
+                }
+            ],
+            "tags": [],
+            "brand": null
+        },
+        {
+            "id": 146,
+            "title": "Dalle Achar7",
+            "categoryId": 91,
+            "categoryTitle": "DalleSpecials",
+            "categorySlug": "au4w-dallespecials-qw86",
+            "slug": "jhaw-dalle-achar7-achar7-yhs8",
+            "moreInfo": "",
+            "description": null,
+            "taxable": true,
+            "taxableAmount": 0,
+            "decimal": false,
+            "status" : false,
+            "hasOffer": false,
+            "unitPrice": [
+                {
+                    "id": 119,
+                    "title": "Pc",
+                    "sellingPrice": 206,
+                    "markedPrice": 206,
+                    "newPrice": 0,
+                    "oldPrice": 206,
+                    "size": null,
+                    "sku": "achar7",
+                    "description": null,
+                    "barcode": null,
+                    "stock": 999,
+                    "hasOffer": false,
+                    "alwaysAvailable": true
+                }
+            ],
+            "images": [
+                {
+                    "id": 1,
+                    "imageName": "https://uat.ordering-dalle.ekbana.net/storage/placeholder/placeholder-web.png",
+                    "unit_price_id": null
+                }
+            ],
+            "warehouses": [
+                {
+                    "id": 1,
+                    "title": "Kathmandu"
+                }
+            ],
+            "tags": [],
+            "brand": null
+        },
+        {
+            "id": 147,
+            "title": "Dalle Achar8",
+            "categoryId": 91,
+            "categoryTitle": "DalleSpecials",
+            "categorySlug": "au4w-dallespecials-qw86",
+            "slug": "eul8-dalle-achar8-achar8-q6uj",
+            "moreInfo": "",
+            "description": null,
+            "taxable": true,
+            "taxableAmount": 0,
+            "decimal": false,
+            "status" : true,
+            "hasOffer": false,
+            "unitPrice": [
+                {
+                    "id": 120,
+                    "title": "Pc",
+                    "sellingPrice": 207,
+                    "markedPrice": 207,
+                    "newPrice": 0,
+                    "oldPrice": 207,
+                    "size": null,
+                    "sku": "achar8",
+                    "description": null,
+                    "barcode": null,
+                    "stock": 999,
+                    "hasOffer": false,
+                    "alwaysAvailable": true
+                }
+            ],
+            "images": [
+                {
+                    "id": 1,
+                    "imageName": "https://uat.ordering-dalle.ekbana.net/storage/placeholder/placeholder-web.png",
+                    "unit_price_id": null
+                }
+            ],
+            "warehouses": [
+                {
+                    "id": 1,
+                    "title": "Kathmandu"
+                }
+            ],
+            "tags": [],
+            "brand": null
+        },
+        {
+            "id": 130,
+            "title": "Dallecious product",
+            "categoryId": 86,
+            "categoryTitle": "Dallecious",
+            "categorySlug": "owlr-dallecious-jpmo",
+            "slug": "2ddl-dallecious-product-test8001-xqvz",
+            "moreInfo": "<div style=\"display: none;\">&nbsp;</div>\r\n<div style=\"display: none;\">&nbsp;</div>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>",
+            "description": "<div style=\"display: none;\">&nbsp;</div>\r\n<div style=\"display: none;\">&nbsp;</div>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>",
+            "taxable": true,
+            "taxableAmount": 0,
+            "decimal": false,
+            "status" : true,
+            "hasOffer": false,
+            "unitPrice": [
+                {
+                    "id": 103,
+                    "title": "Plate",
+                    "sellingPrice": 200,
+                    "markedPrice": 200,
+                    "newPrice": 0,
+                    "oldPrice": 200,
+                    "size": null,
+                    "sku": "test8001",
+                    "description": null,
+                    "barcode": null,
+                    "stock": 999,
+                    "hasOffer": false,
+                    "alwaysAvailable": true
+                }
+            ],
+            "images": [
+                {
+                    "id": 1,
+                    "imageName": "https://uat.ordering-dalle.ekbana.net/storage/placeholder/placeholder-web.png",
+                    "unit_price_id": null
+                }
+            ],
+            "warehouses": [
+                {
+                    "id": 2,
+                    "title": "Pokhara"
+                }
+            ],
+            "tags": [],
+            "brand": null
+        },
+        {
+            "id": 79,
+            "title": "White Wine",
+            "categoryId": 47,
+            "categoryTitle": "Beverages",
+            "categorySlug": "beverages",
+            "slug": "white-wine",
+            "moreInfo": "<div style=\"display: none;\">&nbsp;</div>\r\n<p>This is a special white wine</p>\r\n<p>&nbsp;</p>",
+            "description": "<div style=\"display: none;\">&nbsp;</div>\r\n<p>This is a special white wine</p>\r\n<p>&nbsp;</p>",
+            "taxable": true,
+            "taxableAmount": 0,
+            "decimal": false,
+            "status" : false,
+            "hasOffer": false,
+            "unitPrice": [
+                {
+                    "id": 52,
+                    "title": "Plate",
+                    "sellingPrice": 500,
+                    "markedPrice": 0,
+                    "newPrice": 450,
+                    "oldPrice": 500,
+                    "size": null,
+                    "sku": "White Wine",
+                    "description": null,
+                    "barcode": null,
+                    "stock": 999,
+                    "hasOffer": false,
+                    "alwaysAvailable": true
+                }
+            ],
+            "images": [
+                {
+                    "id": 1,
+                    "imageName": "https://uat.ordering-dalle.ekbana.net/storage/placeholder/placeholder-web.png",
+                    "unit_price_id": null
+                }
+            ],
+            "warehouses": [
+                {
+                    "id": 2,
+                    "title": "Pokhara"
+                }
+            ],
+            "tags": [
+                {
+                    "id": 2,
+                    "title": "spicy",
+                    "content": "",
+                    "imageLink": null,
+                    "slug": "spicy"
+                }
+            ],
+            "brand": null
+        },
+        {
+            "id": 84,
+            "title": "Fanta",
+            "categoryId": 47,
+            "categoryTitle": "Beverages",
+            "categorySlug": "beverages",
+            "slug": "fanta",
+            "moreInfo": "<div style=\"display: none;\">&nbsp;</div>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>",
+            "description": "<div style=\"display: none;\">&nbsp;</div>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>",
+            "taxable": true,
+            "taxableAmount": 0,
+            "decimal": false,
+            "status" : true,
+            "hasOffer": false,
+            "unitPrice": [
+                {
+                    "id": 57,
+                    "title": "Plate",
+                    "sellingPrice": 222,
+                    "markedPrice": 0,
+                    "newPrice": 200,
+                    "oldPrice": 222,
+                    "size": null,
+                    "sku": "Fanta",
+                    "description": null,
+                    "barcode": null,
+                    "stock": 999,
+                    "hasOffer": false,
+                    "alwaysAvailable": true
+                }
+            ],
+            "images": [
+                {
+                    "id": 1,
+                    "imageName": "https://uat.ordering-dalle.ekbana.net/storage/placeholder/placeholder-web.png",
+                    "unit_price_id": null
+                }
+            ],
+            "warehouses": [
+                {
+                    "id": 2,
+                    "title": "Pokhara"
+                }
+            ],
+            "tags": [],
+            "brand": null
+        }
+    ]
+}
+
+
